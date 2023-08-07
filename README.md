@@ -1,2 +1,4 @@
-# titanic_survival_prediction
-Titanic survival predictions were performed using logistic regression to estimate the survival chances of individual passengers considering factors such as age, gender and class level. 
+#codsoft internship
+I'm happy to share with you all that I completed my internship at CodSoft as a Data Science Intern in past 4 weeks.
+
+During the intern period I got to learn how should one approach a data science problem and what all steps are required for the machine learning model building.
